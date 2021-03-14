@@ -1,6 +1,6 @@
 # firebase-shell-bug
 
-When the all the emulators are runnning you can't connect to the functions shell.
+When all the emulators are runnning you can't connect to the functions shell.
 
 You'll get an error:
 ```log
