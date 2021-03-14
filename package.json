@@ -1,0 +1,21 @@
+{
+  "name": "firebase-shell-bug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "cd functions && npm run serve",
+    "shell": "cd functions && npm run shell",
+    "postinstall": "cd functions && npm install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hacksore/firebase-shell-bug.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hacksore/firebase-shell-bug/issues"
+  },
+  "homepage": "https://github.com/Hacksore/firebase-shell-bug#readme"
+}
